@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-colorpicker-2",
+  "description": "Bootstrap Colorpicker 2 packaged for meteor",
+  "homepage": "https://github.com/sclausen/meteor-bootstrap-colorpicker-2",
+  "author": "Sebastian Clausen",
+  "version": "0.1.0",
+  "git": "https://github.com/sclausen/meteor-bootstrap-colorpicker-2.git"
+}
